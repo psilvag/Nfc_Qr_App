@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nfc_Qr_App</string>
+    <string name="identify_fail">API module is not installed, can not be two-dimensional code / ID card identification</string>
+</resources>
